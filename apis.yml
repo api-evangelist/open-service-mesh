@@ -39,6 +39,8 @@ apis:
       - type: GitHubRepo
         url: https://github.com/openservicemesh/osm
 common:
+  - type: DomainSecurity
+    url: security/open-service-mesh-domain-security.yml
   - type: Website
     url: https://openservicemesh.io
   - type: Documentation
