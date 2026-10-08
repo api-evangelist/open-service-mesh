@@ -70,6 +70,12 @@ apis:
       - type: GitHubRepo
         url: https://github.com/openservicemesh/osm
 common:
+  - type: Plans
+    url: plans/open-service-mesh-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/open-service-mesh-rate-limits.yml
+  - type: FinOps
+    url: finops/open-service-mesh-finops.yml
   - type: IssueTracker
     url: https://github.com/openservicemesh/osm/issues
   - type: Releases
